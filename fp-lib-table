@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name PowerBankv0.2)(type KiCad)(uri ${KIPRJMOD}/PowerBankv0.2.pretty)(options "")(descr ""))
+)

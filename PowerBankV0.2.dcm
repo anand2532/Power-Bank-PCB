@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ESP32-C3-MINI-1
+D Smallsized module with onboard PCB antenna
+F https://www.espressif.com/sites/default/files/documentation/esp32-c3-mini-1_datasheet_en.pdf
+$ENDCMP
+#
+$CMP GPTS203211B
+D SWITCH PUSHBUTTON SPST 1A 30V
+K CW181-ND GPTS
+F http://switches-connectors-custom.cwind.com/Asset/GPTS203211BR2.pdf
+$ENDCMP
+#
+#End Doc Library

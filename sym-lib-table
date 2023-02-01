@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name PowerBankV0.2)(type Legacy)(uri ${KIPRJMOD}/PowerBankV0.2.lib)(options "")(descr ""))
+  (lib (name PowerBank_V0.2-eagle-import)(type Legacy)(uri ${KIPRJMOD}/PowerBank_V0.2-eagle-import.lib)(options "")(descr ""))
+  (lib (name PowerBank-V0.2-rescue)(type Legacy)(uri "${KIPRJMOD}/PowerBank V0.2-rescue.lib")(options "")(descr ""))
+)
